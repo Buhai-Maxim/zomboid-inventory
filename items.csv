@@ -1,0 +1,12 @@
+id,name,type,condition,amount
+1,Hummer,Tool,Mint,10
+2,Nails,fasteners,New,400
+2,Nails,fasteners,Good,100
+3,Garden saw,Tool,Mint,2
+4,Metal saw,Tool,New,2
+5,iPhone 16,Electronics,New,20
+6,Canned pork,Food,New,50
+7,Canned vegetables,Food,New,30
+8,Canned beef,Food,New,25
+9,Sunglasses,Misc,New,1
+10,Saiga 12,Weapon,Mint,1
